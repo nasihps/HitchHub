@@ -16,6 +16,10 @@ export default function Contact() {
                     <div className="col-md-6">
                         <img src="/assets/contact.jpg" alt="Contact" className="w-75"/>
                     </div>
+                    <div className="col-md-6">
+                        <p className="lead mb-4">Email</p>
+                        <p className="lead mb-4">Contact No</p>
+                    </div>
                 </div>
             </div>
         </section>
